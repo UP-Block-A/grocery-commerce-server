@@ -1,0 +1,14 @@
+{
+  "name": "grocery-commerce-server",
+  "version": "1.0.0",
+  "description": "grocery-commerce-server file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "grocery-commerce"
+  ],
+  "author": "up-it-commerce",
+  "license": "ISC"
+}
